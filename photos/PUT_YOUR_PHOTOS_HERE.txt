@@ -1,0 +1,16 @@
+Drop her photos in this folder named:
+
+  1.jpg
+  2.jpg
+  3.jpg
+  4.jpg
+  5.jpg
+
+Using .png instead? Just update the extensions in js/script.js under
+CONFIG.photos near the top of the file.
+
+Until real photos are added, the carousel shows soft placeholder cards
+so you can preview the whole site right away.
+
+Want more/fewer photos in the carousel? Add or remove lines from the
+CONFIG.photos list in js/script.js — the fan carousel adapts automatically.
