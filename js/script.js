@@ -14,6 +14,7 @@ const CONFIG = {
   ],
   videos: [
     "media/vid1.mp4","media/vid2.mp4","media/vid3.mp4",
+    "media/vid4.mp4","media/vid5.mp4","media/vid6.mp4"
   ],
 
   letterMessage: "To my dearest little sister Aayushi, watching you grow up has been one of my greatest joys. Even though we might bicker sometimes, you will always be my favorite partner in crime and my best friend. Keep chasing your dreams and lighting up every room you walk into. Thank you for being so awesome -love from Aahana",
