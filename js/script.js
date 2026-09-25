@@ -4,7 +4,7 @@
 const CONFIG = {
   cakeHeading: "Make a wish & blow out the candles",
   collageTitle: "Every little moment with you",
-  finalNote: "Here's to more birthdays, more cake, and more us. I love you. 💛",
+  finalNote: "Having a sister like you makes every day special. Here's to more laughs, more adventures, and more memories together. Happy birthday! 💛",
   candleCount: 5,
   blowSensitivity: 0.09,
 
@@ -16,7 +16,7 @@ const CONFIG = {
     "media/vid1.mp4","media/vid2.mp4","media/vid3.mp4",
   ],
 
-  letterMessage: "Every year with you feels like the best one yet. Thank you for being the softest place I know, the loudest laugh in every room, and my favourite person to grow beside. Happy birthday, my love — here's to this beautiful life we're building, one silly, sweet, ordinary day at a time.",
+  letterMessage: "To my dearest little sister Aayushi, watching you grow up has been one of my greatest joys. Even though we might bicker sometimes, you will always be my favorite partner in crime and my best friend. Keep chasing your dreams and lighting up every room you walk into. Thank you for being so awesome -love from Aahana",
 
   // Put your own photos in the /photos folder and list filenames here.
   photos: [
