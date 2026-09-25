@@ -14,7 +14,6 @@ const CONFIG = {
   ],
   videos: [
     "media/vid1.mp4","media/vid2.mp4","media/vid3.mp4",
-    "media/vid4.mp4","media/vid5.mp4","media/vid6.mp4",
   ],
 
   letterMessage: "Every year with you feels like the best one yet. Thank you for being the softest place I know, the loudest laugh in every room, and my favourite person to grow beside. Happy birthday, my love — here's to this beautiful life we're building, one silly, sweet, ordinary day at a time.",
